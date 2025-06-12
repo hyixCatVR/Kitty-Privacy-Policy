@@ -16,8 +16,8 @@ Last Updated: 12.06.2025 or 6/12/2025
 - Data is stored securely and deleted upon request.
 - Users can contact us to remove their data.
 
-## 4. Third-Party Services
-- This bot may use third-party APIs (e.g., YouTube, OpenAI).
-- These services have their own privacy policies.
+## 4. Third-Party Services  
+- This bot **currently does not use any third-party APIs**.  
+- If third-party services are added in the future, they will have their own privacy policies.  
 
 🚫We do not provide Contact-Us.
