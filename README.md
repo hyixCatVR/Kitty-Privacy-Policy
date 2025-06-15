@@ -7,7 +7,7 @@ Kitty Bot only collects the following information:
 - Discord user data (such as user IDs and progress-related data specific to bot features)
 ## Use of Data
 We use this data solely to:
-- Track user progress and enhance bot functionality within Discord servers
+- Track user progress
 - Provide a consistent user experience across sessions
 ## Data Sharing and Selling
 We do not sell, share, or monetize any user or server data. All data is kept strictly within our control and only used as described above.
